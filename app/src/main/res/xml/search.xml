@@ -1,0 +1,27 @@
+<smartphones count="5">
+<os>
+<id>1</id>
+<name>Android</name>
+<site>http://www.android.com</site>
+</os>
+<os>
+<id>2</id>
+<name>Windows Phone</name>
+<site>http://www.microsoft.com</site>
+</os>
+<os>
+<id>3</id>
+<name>iOS</name>
+<site>http://www.apple.com</site>
+</os>
+<os>
+<id>4</id>
+<name>Symbian</name>
+<site>http://www.nokia.com</site>
+</os>
+<os>
+<id>5</id>
+<name>Bada</name>
+<site>http://www.samsung.com</site>
+</os>
+</smartphones>
